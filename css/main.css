@@ -1,0 +1,52 @@
+body {
+ font-family: 'poppins','Sans-serif';
+ background-color: #f9f9f9;
+}
+
+main{
+  margin-top: 5em;
+}
+
+p {
+  font-size: 1em;  
+}
+
+.logo {
+  margin: 0.5em;
+}
+
+.search-bar {
+    margin: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.insta-profile {
+    text-align: right;
+}
+
+.first-sec {
+  margin: 4em;
+}
+
+.second-sec {
+  padding: 0.5em;
+}
+
+.gallery {
+  padding: 3em;
+}
+
+.spacing {
+  margin: 0.5em;
+}
+
+.story-img{
+  padding: 0.5em;
+}
+
+.footer-links {
+  background-color: #f9f9f9;
+}
+
+
